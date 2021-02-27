@@ -9,3 +9,4 @@ A simple book manager using JavaFX and Microsservice REST API.
 * JUnit and Mockito for tests
 * Maven
 * Java 11
+* Lombok
