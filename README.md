@@ -1,2 +1,2 @@
-# simple-book-manager
-A simple books manager using JavaFX and Microsservice REST API.
+# Simple Book Manager
+A simple book manager using JavaFX and Microsservice REST API.
